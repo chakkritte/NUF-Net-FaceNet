@@ -1,3 +1,12 @@
+"""
+NU-LiteNet.
+
+As described in https://www.sciencedirect.com/science/article/abs/pii/S0952197619301824
+
+  On-Device facial verification using NUF-Net model of deep learning
+
+"""
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
