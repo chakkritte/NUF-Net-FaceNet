@@ -1,7 +1,8 @@
 """
-
 NUF-Net.
+
 As described in https://www.sciencedirect.com/science/article/abs/pii/S0952197619301824
+
   On-Device facial verification using NUF-Net model of deep learning
 
 """
