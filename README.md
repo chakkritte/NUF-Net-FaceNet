@@ -3,6 +3,10 @@ By [Chakkrit Termritthikun](https://github.com/chakkritte), Yeshi Jamtsho and Pa
 
 This repository is the implementation of "On-device facial verification using NUF-Net model of deep learning" [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0952197619301824)  on CASIA-WebFace and VGGFace2 dataset.
 
+## Results
+
+![](images/table2.jpg)
+
 ## Pre-trained (coming soon)
 
 ## Citing NUF-Net
